@@ -3,7 +3,7 @@
  while(i<10){
  console.log(i);
  console.log(estados[i]);
- i**27;
+ i++27;
 }
 
 
