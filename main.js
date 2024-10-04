@@ -5,11 +5,17 @@
 //  console.log(estados[i]);
 //  i++;
 // }
-for (let j = 0; j < estados.length; j++) {
-console.log(j);
-console.log(estados[j]);   
+// for (let j = 0; j < estados.length; j++) {
+// console.log(j);
+// console.log(estados[j]);   
+// }
+let idade=5
+if (idade>17){
+console.log('Pode dirigir');
 }
-
+else{ 
+console.log('Ilegal dirigir');
+}
 
 
 
